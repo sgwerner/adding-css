@@ -1,0 +1,22 @@
+h1, h2 {font-style: italic;}
+
+img{width: 250px;
+border: 30px;}
+
+.comingsoon {
+    border-color: white;}
+    body{
+    background-color: black;
+    color: white;}
+
+.Favs{font-style: italic;}
+
+.Bold{
+    font-weight: bold;}
+body{ 
+    text-align: center;
+}
+ul{
+    display: inline-block;
+}
+ol{ display:inline-block}
